@@ -10,7 +10,7 @@
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
     {
-      "Name": "PUDIM SERVER [1]",
+      "Name": "RISKY SERVER [1]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "pudim.hyvozin.ml",
