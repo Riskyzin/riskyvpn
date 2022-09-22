@@ -1,1 +1,1 @@
-{"SendMessage":"1","MyMessage":"ESSA INTERNET É FREE!"}
+{"SendMessage":"1","MyMessage":"ESSA INTERNET FREE!"}
