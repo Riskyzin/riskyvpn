@@ -1,1 +1,1 @@
-{"SendMessage":"1","MyMessage":"Online novamente!"}
+{"SendMessage":"1","MyMessage":"Essa VPN não está a venda!"}
