@@ -6,7 +6,7 @@
   "EmailFeedback": "",
   "UrlContato": "https://wa.me/558582123790",
   "UrlTermos": "https://www.instagram.com/david.sousz",
-  "CheckUser": "true",
+  "CheckUser": "false",
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
     {
