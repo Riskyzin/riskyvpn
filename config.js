@@ -9,7 +9,7 @@
   "CheckUser": "true",
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
-    {
+      {
       "Name": "PUDIM SERVER [1]",
       "TYPE": "premium",
       "FLAG": "br.png",
@@ -41,16 +41,6 @@
             "ProxyPort": "443",
             "Info": "Tlsws"
           },
-     {
-      "Name": "💙TIM NOVA 4",
-      "FLAG": "tim",
-      "Payload": "GET wss://cdn.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "cdn.c6bank.com.br",
-      "TlsIP": "cdn.c6bank.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
 {
                     "Name": "💙TIM imagem",
                     "FLAG": "tim",  
