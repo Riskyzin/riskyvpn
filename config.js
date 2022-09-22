@@ -1,15 +1,15 @@
 {
-  "Version": "1.0.32",
-  "ReleaseNotes": "Versão v32\n\nTeste na tiM",
-  "UrlUpdate": "https://raw.githubusercontent.com/Riskyzin/main/config.js",
-  "Sms": "https://raw.githubusercontent.com/Riskyzin/main/sms.js",
+  "Version": "1.0.31",
+  "ReleaseNotes": "Versão v31\n\nTeste na tiM",
+  "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
+  "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
   "EmailFeedback": "",
-  "UrlContato": "https://wa.me/558582123790",
-  "UrlTermos": "https://www.instagram.com/david.sousz",
+  "UrlContato": "https://t.me/nuvemdepudim",
+  "UrlTermos": "https://t.me/nuvempudinficada",
   "CheckUser": "true",
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
-      {
+    {
       "Name": "PUDIM SERVER [1]",
       "TYPE": "premium",
       "FLAG": "br.png",
