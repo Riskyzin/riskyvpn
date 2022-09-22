@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.32",
+  "Version": "1.0.31",
   "ReleaseNotes": "Versão v31\n\nTeste na tiM",
   "UrlUpdate": "https://raw.githubusercontent.com/Riskyzin/main/config.js",
   "Sms": "https://raw.githubusercontent.com/Riskyzin/main/sms.js",
@@ -41,6 +41,16 @@
             "ProxyPort": "443",
             "Info": "Tlsws"
           },
+     {
+      "Name": "💙TIM NOVA 4",
+      "FLAG": "tim",
+      "Payload": "GET wss://cdn.c6bank.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "cdn.c6bank.com.br",
+      "TlsIP": "cdn.c6bank.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
 {
                     "Name": "💙TIM imagem",
                     "FLAG": "tim",  
