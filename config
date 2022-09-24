@@ -1,6 +1,6 @@
- {
-  "Version": "1.0.32",
-  "ReleaseNotes": "Versão v32\n\nTeste na tiM",
+{
+  "Version": "1.0.7",
+  "ReleaseNotes": "Pudim v7\n\nTudo Pronto",
   "UrlUpdate": "https://raw.githubusercontent.com/Riskyzin/main/config",
   "Sms": "https://raw.githubusercontent.com/Riskyzin/main/sms",
   "EmailFeedback": "",
@@ -17,8 +17,19 @@
       "CheckUser": "http://20.197.235.228:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "pudim",
-      "PASS": "pudim"
+      "USER": "",
+      "PASS": ""
+    },
+{
+      "Name": "RISKY SERVER [2]",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "dbz.gokussh.ml",
+      "CheckUser": "http://191.232.198.117:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
     }
  ],
   "Networks": [
@@ -31,6 +42,26 @@
       "ProxyPort": "80",
       "Info": "Direct"
      },
+{
+      "Name": "𝗧𝗜𝗠 sem crédito ativos [1]",
+      "FLAG": "tim",
+      "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: t.me/DarkEnilson[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+       "SNI": "duvidas.ampli.com.br",
+       "TlsIP": "104.16.53.111",
+       "ProxyIP": "",
+       "ProxyPort": "8443",
+       "Info": "Tlsws"
+        },
+{
+      "Name": "𝗧𝗜𝗠 sem crédito ativos [2]",
+      "FLAG": "tim",
+      "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: t.me/DarkEnilson[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+       "SNI": "duvidas.ampli.com.br",
+       "TlsIP": "104.16.53.111",
+       "ProxyIP": "",
+       "ProxyPort": "443",
+       "Info": "Tlsws"
+        },
     {
             "Name": "💙TIM NOVA 5",
             "FLAG": "tim",
