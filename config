@@ -1,6 +1,6 @@
 {
   "Version": "1.0.7",
-  "ReleaseNotes": "Risky Modz\n\nTudo Pronto",
+  "ReleaseNotes": "RISKY VPN\n\nTudo Pronto",
   "UrlUpdate": "https://raw.githubusercontent.com/Riskyzin/main/config",
   "Sms": "https://raw.githubusercontent.com/Riskyzin/main/sms",
   "EmailFeedback": "",
@@ -17,8 +17,8 @@
       "CheckUser": "http://20.197.235.228:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "pudim",
+      "PASS": "pudim"
     },
 {
       "Name": "RISKY SERVER [2]",
