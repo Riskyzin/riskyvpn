@@ -9,42 +9,9 @@
     "CheckUser": "true",
     "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
-{
-      "Name": "SV PUDINFICADO [1]",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "pudim.hyvozin.ml",
-      "CheckUser": "http://20.226.55.98:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-{
-      "Name": "SV PUDINFICADO [2]",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "qnaxfree.sasksus.tk",
-      "CheckUser": "http://209.14.137.23:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
   {
-      "Name": "SV PUDINFICADO [3]",
+      "Name": "SV RISKY BR [1]",
       "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "dbz.pudinficaduh.ml",
-      "CheckUser": "http://4.228.206.138:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-  {
-      "Name": "SV PUDINFICADO BR [4]",
-      "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "proxybr.sshbrasil.net",
       "CheckUser": "http://189.126.106.57:5454/checkUser",
@@ -54,8 +21,8 @@
       "PASS": "ailimafljtf"
     },
   {
-      "Name": "SV PUDINFICADO CA [5]",
-      "TYPE": "free",
+      "Name": "SV RISKY CA [2]",
+      "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "proxyca.sshbrasil.net",
       "CheckUser": "http://189.126.106.57:5454/checkUser",
@@ -67,7 +34,7 @@
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V47 🍮",
+      "Name": "👑 RISKY V2 👑",
 "FLAG": "ic_pudim",
       "Payload": "HTTP/",
       "SNI": "",
