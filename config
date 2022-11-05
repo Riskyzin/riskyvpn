@@ -21,15 +21,15 @@
       "PASS": "ailimafljtf"
     },
   {
-      "Name": "SV RISKY CA [2]",
+      "Name": "SV RISKY BR [2]",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "proxyca.sshbrasil.net",
-      "CheckUser": "http://189.126.106.57:5454/checkUser",
+      "ServerIP": "http://20.206.200.138:3389",
+      "CheckUser": "http://20.206.200.138:3389/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "ailimafljtf",
-      "PASS": "ailimafljtf"
+      "USER": "riskyzin",
+      "PASS": "davidsousa2022@Dk"
     }
   ],
 "Networks": [
